@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Ramrakhyani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilleo&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilleo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilleo&theme=onedark" alt="nikhilleo" /></a> </p>
@@ -13,8 +15,8 @@
 
 - 📫 How to reach me *ramrakhyani94@gmail.com*
 
-<h1 align='center'> Connect with me <img src='https://acegif.com/wp-content/gifs/handshake-37.gif' width="75px" height="50px" > </h1>
-<p align="left">
+<h1 align="center" ><img src='https://i.ibb.co/SQgN30B/com-gif-maker-1-unscreen.gif' width="40%" height="70px" > </h1>
+<p align="center">
 <a href="https://twitter.com/nikhilleo10" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" alt="nikhilleo10" height="40" width="40" style="max-width:100%;"></a>
 <a href="https://fb.com/nikhil.ramrakhyani.1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="nikhil.ramrakhyani.1" height="40" width="40" /></a>
 </p>
