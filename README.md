@@ -15,7 +15,7 @@
 - 📫 How to reach me *ramrakhyani94@gmail.com*
 
 <h1 align="center" >Connect With Me</h1>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/nikhilleo10" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" alt="nikhilleo10" height="40" width="40" style="max-width:100%;"></a>
 <a href="https://fb.com/nikhil.ramrakhyani.1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="nikhil.ramrakhyani.1" height="40" width="40" /></a>
 </p>
@@ -30,6 +30,8 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilleo&theme=onedark" alt="nikhilleo" /></a> </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilleo&theme=highcontrast)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilleo&show_icons=true&count_private=true&theme=radical)  
 
