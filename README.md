@@ -31,9 +31,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilleo&theme=onedark" alt="nikhilleo" /></a> </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilleo&theme=highcontrast)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilleo&show_icons=true&count_private=true&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilleo&theme=highcontrast)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nikhilleo&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
