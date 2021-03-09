@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-> "The most important single aspect of software development is to be clear about what you are trying to build." - Bjarne Stroustrup
-
-
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 <p align="left"> <a href="https://twitter.com/nikhilleo10" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilleo10?logo=twitter&style=for-the-badge" alt="nikhilleo10" /></a> </p>
 
