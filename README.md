@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in?quoteCategory=motivational)
 
 <p align="left"> <a href="https://twitter.com/nikhilleo10" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilleo10?logo=twitter&style=for-the-badge" alt="nikhilleo10" /></a> </p>
 
