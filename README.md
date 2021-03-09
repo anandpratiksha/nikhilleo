@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilleo&show_icons=true&locale=en&layout=compact&theme=radical" alt="nikhilleo" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilleo&theme=onedark" alt="nikhilleo" /></a> </p>
+<p align="left"> <a href="https://github.com/nikhilleo"><img src="https://github-profile-trophy.vercel.app/?username=nikhilleo&theme=onedark" alt="nikhilleo" /></a> </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilleo&show_icons=true&count_private=true&theme=radical)  
 
