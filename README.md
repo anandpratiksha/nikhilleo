@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on [Netflix](https://netflix-clone-1008.web.app/)
 
 
-
 <h1 align="center" >Connect With Me</h1>
 <p align="left">
 <a href="https://twitter.com/nikhilleo10" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" alt="nikhilleo10" height="40" width="40" style="max-width:100%;"></a>
