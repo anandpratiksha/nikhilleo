@@ -26,7 +26,7 @@
 
 <h2> My GitHub Stats </h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilleo&show_icons=true&locale=en&layout=compact&theme=radical" alt="nikhilleo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilleo&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="nikhilleo" /></p>
 
 
 <p align="left"> <a href="https://github.com/nikhilleo"><img src="https://github-profile-trophy.vercel.app/?username=nikhilleo&theme=onedark" alt="nikhilleo" /></a> </p>
